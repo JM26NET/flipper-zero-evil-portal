@@ -11,9 +11,10 @@ Discord login for evil portal
 # ~~Help needed!~~
 
 Bugs:
+
 - ~~Doesn't submit the form~~
 - ~~Strange behaviour on moblie (tested on iPhone)~~
 
-Big Thanks to @GauravKukreti for the bug fixes and optimization.
+Big Thanks to [GauravKukreti](https://github.com/GauravKukreti) for the bug fixes and optimization.
 
 ## Original: [https://github.com/bigbrodude6119/flipper-zero-evil-portal](https://github.com/bigbrodude6119/flipper-zero-evil-portal)
